@@ -1,0 +1,339 @@
+
+{
+  "1000": {
+    "name": "Clear / Sunny",
+    "background": "/backgrounds/sunny.jpg ",
+    "video":"/Images/rain.mp4",
+    "animation": "sun",
+    "icon": "☀️"
+  },
+
+  "1003": {
+    "name": "Partly Cloudy",
+    "background": "/backgrounds/partly-cloudy.jpg",
+    "animation": "clouds",
+    "icon": "⛅"
+  },
+
+  "1006": {
+    "name": "Cloudy",
+    "background": "/backgrounds/cloudy.jpg",
+    "animation": "clouds",
+    "icon": "☁️"
+  },
+
+  "1009": {
+    "name": "Overcast",
+    "background": "/backgrounds/overcast.jpg",
+    "animation": "clouds-heavy",
+    "icon": "☁️"
+  },
+
+  "1030": {
+    "name": "Mist",
+    "background": "/backgrounds/mist.jpg",
+    "animation": "mist",
+    "icon": "🌫️"
+  },
+
+  "1063": {
+    "name": "Patchy Rain Possible",
+    "background": "/backgrounds/patchy-rain.jpg",
+    "animation": "rain-light",
+    "icon": "🌦️"
+  },
+
+  "1066": {
+    "name": "Patchy Snow Possible",
+    "background": "/backgrounds/patchy-snow.jpg",
+    "animation": "snow-light",
+    "icon": "🌨️"
+  },
+
+  "1069": {
+    "name": "Patchy Sleet Possible",
+    "background": "/backgrounds/patchy-sleet.jpg",
+    "animation": "sleet",
+    "icon": "🌨️"
+  },
+
+  "1072": {
+    "name": "Patchy Freezing Drizzle Possible",
+    "background": "/backgrounds/freezing-drizzle.jpg",
+    "animation": "drizzle",
+    "icon": "🌧️"
+  },
+
+  "1087": {
+    "name": "Thundery Outbreaks Possible",
+    "background": "/backgrounds/thunderstorm.jpg",
+    "animation": "thunderstorm",
+    "icon": "🌩️"
+  },
+
+  "1114": {
+    "name": "Blowing Snow",
+    "background": "/backgrounds/blowing-snow.jpg",
+    "animation": "snow-heavy",
+    "icon": "🌨️"
+  },
+
+  "1117": {
+    "name": "Blizzard",
+    "background": "/backgrounds/blizzard.jpg",
+    "animation": "blizzard",
+    "icon": "❄️"
+  },
+
+  "1135": {
+    "name": "Fog",
+    "background": "/backgrounds/fog.jpg",
+    "animation": "fog",
+    "icon": "🌫️"
+  },
+
+  "1147": {
+    "name": "Freezing Fog",
+    "background": "/backgrounds/freezing-fog.jpg",
+    "animation": "fog",
+    "icon": "🌫️"
+  },
+
+  "1150": {
+    "name": "Patchy Light Drizzle",
+    "background": "/backgrounds/drizzle.jpg",
+    "animation": "drizzle",
+    "icon": "🌦️"
+  },
+
+  "1153": {
+    "name": "Light Drizzle",
+    "background": "/backgrounds/drizzle.jpg",
+    "animation": "drizzle",
+    "icon": "🌧️"
+  },
+
+  "1168": {
+    "name": "Freezing Drizzle",
+    "background": "/backgrounds/freezing-drizzle.jpg",
+    "animation": "freezing-rain",
+    "icon": "🌧️"
+  },
+
+  "1171": {
+    "name": "Heavy Freezing Drizzle",
+    "background": "/backgrounds/freezing-rain.jpg",
+    "animation": "freezing-rain-heavy",
+    "icon": "🌧️"
+  },
+
+  "1180": {
+    "name": "Patchy Light Rain",
+    "background": "/backgrounds/patchy-rain.jpg",
+    "animation": "rain-light",
+    "icon": "🌦️"
+  },
+
+  "1183": {
+    "name": "Light Rain",
+    "background": "/backgrounds/light-rain.jpg",
+    "animation": "rain-light",
+    "icon": "🌧️"
+  },
+
+  "1186": {
+    "name": "Moderate Rain At Times",
+    "background": "/backgrounds/rain.jpg",
+    "animation": "rain",
+    "icon": "🌧️"
+  },
+
+  "1189": {
+    "name": "Light Rain",
+    "background": "/backgrounds/light-rain.jpg",
+    "animation": "rain-light",
+    "icon": "🌧️"
+  },
+
+  "1192": {
+    "name": "Moderate Rain At Times",
+    "background": "/backgrounds/rain.jpg",
+    "animation": "rain",
+    "icon": "🌧️"
+  },
+
+  "1195": {
+    "name": "Heavy Rain",
+    "background": "/backgrounds/heavy-rain.jpg",
+    "animation": "rain-heavy",
+    "icon": "🌧️"
+  },
+
+  "1198": {
+    "name": "Light Freezing Rain",
+    "background": "/backgrounds/freezing-rain.jpg",
+    "animation": "freezing-rain",
+    "icon": "🌧️"
+  },
+
+  "1201": {
+    "name": "Moderate or Heavy Freezing Rain",
+    "background": "/backgrounds/freezing-rain.jpg",
+    "animation": "freezing-rain-heavy",
+    "icon": "🌧️"
+  },
+
+  "1204": {
+    "name": "Light Sleet",
+    "background": "/backgrounds/sleet.jpg",
+    "animation": "sleet",
+    "icon": "🌨️"
+  },
+
+  "1207": {
+    "name": "Moderate or Heavy Sleet",
+    "background": "/backgrounds/sleet.jpg",
+    "animation": "sleet-heavy",
+    "icon": "🌨️"
+  },
+
+  "1210": {
+    "name": "Patchy Light Snow",
+    "background": "/backgrounds/patchy-snow.jpg",
+    "animation": "snow-light",
+    "icon": "🌨️"
+  },
+
+  "1213": {
+    "name": "Light Snow",
+    "background": "/backgrounds/light-snow.jpg",
+    "animation": "snow-light",
+    "icon": "❄️"
+  },
+
+  "1216": {
+    "name": "Patchy Moderate Snow",
+    "background": "/backgrounds/snow.jpg",
+    "animation": "snow",
+    "icon": "🌨️"
+  },
+
+  "1219": {
+    "name": "Moderate Snow",
+    "background": "/backgrounds/snow.jpg",
+    "animation": "snow",
+    "icon": "❄️"
+  },
+
+  "1222": {
+    "name": "Patchy Heavy Snow",
+    "background": "/backgrounds/heavy-snow.jpg",
+    "animation": "snow-heavy",
+    "icon": "❄️"
+  },
+
+  "1225": {
+    "name": "Heavy Snow",
+    "background": "/backgrounds/heavy-snow.jpg",
+    "animation": "snow-heavy",
+    "icon": "❄️"
+  },
+
+  "1237": {
+    "name": "Ice Pellets",
+    "background": "/backgrounds/ice-pellets.jpg",
+    "animation": "hail",
+    "icon": "🧊"
+  },
+
+  "1240": {
+    "name": "Light Rain Shower",
+    "background": "/backgrounds/light-rain.jpg",
+    "animation": "rain-light",
+    "icon": "🌦️"
+  },
+
+  "1243": {
+    "name": "Moderate or Heavy Rain Shower",
+    "background": "/backgrounds/heavy-rain.jpg",
+    "animation": "rain-heavy",
+    "icon": "🌧️"
+  },
+
+  "1246": {
+    "name": "Torrential Rain Shower",
+    "background": "/backgrounds/storm.jpg",
+    "animation": "rain-storm",
+    "icon": "⛈️"
+  },
+
+  "1249": {
+    "name": "Light Sleet Showers",
+    "background": "/backgrounds/sleet.jpg",
+    "animation": "sleet",
+    "icon": "🌨️"
+  },
+
+  "1252": {
+    "name": "Moderate or Heavy Sleet Showers",
+    "background": "/backgrounds/sleet.jpg",
+    "animation": "sleet-heavy",
+    "icon": "🌨️"
+  },
+
+  "1255": {
+    "name": "Light Snow Showers",
+    "background": "/backgrounds/light-snow.jpg",
+    "animation": "snow-light",
+    "icon": "🌨️"
+  },
+
+  "1258": {
+    "name": "Moderate or Heavy Snow Showers",
+    "background": "/backgrounds/heavy-snow.jpg",
+    "animation": "snow-heavy",
+    "icon": "❄️"
+  },
+
+  "1261": {
+    "name": "Light Showers Of Ice Pellets",
+    "background": "/backgrounds/ice-pellets.jpg",
+    "animation": "hail",
+    "icon": "🧊"
+  },
+
+  "1264": {
+    "name": "Moderate or Heavy Showers Of Ice Pellets",
+    "background": "/backgrounds/hail.jpg",
+    "animation": "hail-heavy",
+    "icon": "🧊"
+  },
+
+  "1273": {
+    "name": "Patchy Light Rain With Thunder",
+    "background": "/backgrounds/thunderstorm.jpg",
+    "animation": "thunderstorm-light",
+    "icon": "🌩️"
+  },
+
+  "1276": {
+    "name": "Moderate or Heavy Rain With Thunder",
+    "background": "/backgrounds/thunderstorm.jpg",
+    "animation": "thunderstorm-heavy",
+    "icon": "⛈️"
+  },
+
+  "1279": {
+    "name": "Patchy Light Snow With Thunder",
+    "background": "/backgrounds/snow-thunder.jpg",
+    "animation": "snow-thunder",
+    "icon": "🌨️"
+  },
+
+  "1282": {
+    "name": "Moderate or Heavy Snow With Thunder",
+    "background": "/backgrounds/snow-thunder.jpg",
+    "animation": "snow-thunder-heavy",
+    "icon": "⛈️"
+  }
+}
