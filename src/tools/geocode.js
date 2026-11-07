@@ -16,6 +16,11 @@ no comonent  is for full url
 a
 */
 
+const geocodeUrl =
+    'https://api.mapbox.com/geocoding/v5/mapbox.places/' +
+    encodeURIComponent(address) +
+    '.json?limit=1&access_token=' + MAPBOX_TOKEN
+
 request({url:geocodeUrl,json:true},(error,response)=>{
     if(error){
         callback('Unable to connect geocde service',undefined)
