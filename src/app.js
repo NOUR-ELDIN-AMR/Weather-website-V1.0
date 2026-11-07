@@ -78,7 +78,7 @@ require('dotenv').config()
 
 app.set('view engine', 'hbs');
 
- const viewsDirectory = path.join (__dirname , '../temp1/views')
+const viewsDirectory = path.join(__dirname, '../Temp1/views')
  app.set('views', viewsDirectory);
 
  // to read partials : 
@@ -214,10 +214,13 @@ app.get('/code',(req,res)=>{
 ///////////////////////////////////////////////////////////////////////////
   
 
+module.exports = app
+
+if (require.main === module) {
     app.listen(port, () => {
-    console.log(`Example app listening on port ${port}`)
+        console.log(`Example app listening on port ${port}`)
     })
-    
+}
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 

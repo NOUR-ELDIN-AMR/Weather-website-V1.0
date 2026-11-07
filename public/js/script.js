@@ -72,8 +72,8 @@ const bg = document.getElementById('background');
 const fun1= async ()=>{
 
     const address= document.getElementById('address').value;
-    const Url= await fetch(`http://localhost:3000/weather?address=${address}`) // fetch from another website url 
-    const codeurl= await fetch(`http://localhost:3000/code?address=${address}`) // fetch from another website url need input
+const Url = await fetch(`/weather?address=${encodeURIComponent(address)}`)
+const codeurl = await fetch(`/code?address=${encodeURIComponent(address)}`)
 
     const data= await Url.json() // هاتها json 
     const datacode= await codeurl.json() // هاتها json 

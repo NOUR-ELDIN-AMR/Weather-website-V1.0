@@ -13,7 +13,7 @@ component for one piece of url
 
 no comonent  is for full url
 
-
+a
 */
 
 request({url:geocodeUrl,json:true},(error,response)=>{
